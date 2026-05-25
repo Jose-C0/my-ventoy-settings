@@ -1,0 +1,35 @@
+{
+    "theme": {
+        "file": [
+            "/ventoy/themes/fallout-grub-theme-master/theme.txt",
+            "/ventoy/themes/Atomic/theme.txt",
+            "/ventoy/themes/CyberRe/theme.txt",
+            "/ventoy/themes/Ventoy-Dark/theme.txt"
+        ],
+        "resolution_fit": 1,
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "serial_param": "--unit=0 --speed=9600",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#0000ff",
+        "fonts": [
+            "/ventoy/themes/fallout-grub-theme-master/fixedsys-regular-32.pf2",
+            "/ventoy/themes/Atomic/Sans-10.pf2",
+            "/ventoy/themes/Atomic/Sans-12.pf2",
+            "/ventoy/themes/Atomic/Sans-14.pf2",
+            "/ventoy/themes/CyberRe/droidlogo_bold_17.pf2",
+            "/ventoy/themes/CyberRe/droidlogo_bold_20.pf2",
+            "/ventoy/themes/CyberRe/droidlogo_bold_26.pf2",
+            "/ventoy/themes/CyberRe/droidlogo_regular_12.pf2",
+            "/ventoy/themes/CyberRe/droidlogo_regular_17.pf2"
+        ]
+    },
+
+    "auto_memdisk": [
+        "/ventoy/ISO/Memtest86-4.3.7-v4-windows.iso",
+        "/ventoy/ISO/Memtest86-4.3.7-v4-linux-mac.iso"
+        
+    ]
+    
+}
